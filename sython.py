@@ -79,7 +79,7 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-**☆ WELCOME TO SYTHON
+**☆ WELCOME TO TNT
 ☆ VERSION : 2.8
 ☆ PING : `{ms}`
 ☆ DATE : `{m9zpi}`
